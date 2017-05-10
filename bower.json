@@ -1,0 +1,25 @@
+{
+  "name": "react-express-starter-kit",
+  "description": "working with api's",
+  "main": "react-express-starter-kit",
+  "authors": [
+    "ElitaSue <ElitaSue@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "express",
+    "starter",
+    "kit",
+    "api"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
